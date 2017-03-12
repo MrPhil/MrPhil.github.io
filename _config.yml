@@ -6,16 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "en-US"
+title                    : "Mr. Phil Games"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Philip Ludington"
+description              : "Thinking Gamers Rule"
+url                      : "https://mrphil.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+repository               : "MrPhil/MrPhil.github.io"
+teaser                   : "/assets/images/MrPhil.jpg"
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -45,7 +45,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : "http://feeds.feedburner.com/MrPhil"
 
 # SEO Related
 google_site_verification :
@@ -77,19 +77,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "MrPhil"
+  avatar           : "/assets/images/MrPhil.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  location         : "Reno, NV -> Austin, TX"
+  email            : "MrPhil@MrPhilGames.com"
+  uri              : "http://www.mrphilgames.com/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/MrPhil"
   google_plus      :
   keybase          :
   instagram        :
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/Los_Angeles"
 
 
 # Plugins
