@@ -1,3 +1,7 @@
+© 2017 Philip J. Ludington. All Rights Reserved.
+
+## [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
+
 The MIT License (MIT)
 
 Copyright (c) 2016 Michael Rose
