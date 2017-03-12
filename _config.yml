@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "MrPhil"
   avatar           : "/assets/images/MrPhil.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Hello! My name is Philip Ludington, you can call me MrPhil if you think that'd be fun. I’m a game developer and programmer. I make mobile games for Zynga using C# and Unity3D. In my personal time I explore game design, game jamming, programming, computer languages, and game development tools. This website is the home to all my experiments, gamejams, games, prototypes, gamedev tools and blog posts."
   location         : "Reno, NV -> Austin, TX"
   email            : "MrPhil@MrPhilGames.com"
   uri              : "http://www.mrphilgames.com/"
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/MrPhil"
+  github           : "MrPhil" # username
   google_plus      :
   keybase          :
   instagram        :
@@ -100,11 +100,12 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "xMrPhil"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "http://www.youtube.com/MrPhilGames"
+  twitch           : "https://www.twitch.tv/xmrphil"
 
 
 # Reading Files
